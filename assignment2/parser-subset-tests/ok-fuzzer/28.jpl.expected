@@ -1,5 +1,5 @@
 (TimeCmd (StmtCmd (TimeCmd (StmtCmd (WriteImageCmd (FloatExpr 5) "{")))))
-(WriteImageCmd (FloatExpr -9223372036854775808) "")
+(WriteImageCmd (FloatExpr 3138621) "")
 (StmtCmd (AssertStmt (CallExpr Z6t. (IntExpr 3)) ""))
 (TimeCmd (StmtCmd (PrintCmd "")))
 (TimeCmd (StmtCmd (TimeCmd (StmtCmd (PrintCmd "8zCe")))))

@@ -297,7 +297,7 @@
      (FloatExpr 0)
      (CallExpr c)
      (VarExpr g)
-     (FloatExpr -9223372036854775808)
+     (FloatExpr 13142)
      (FloatExpr 0)
      (VarExpr Q5f.)
      (CallExpr
@@ -323,7 +323,7 @@
      (FloatExpr 0)
      (IntExpr 5)
      (CallExpr f3p_)
-     (FloatExpr -9223372036854775808)
+     (FloatExpr 8015718)
      (FloatExpr 0)
      (CallExpr d0c.0d_ (VarExpr B))
      (CallExpr
